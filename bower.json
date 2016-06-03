@@ -1,0 +1,17 @@
+{
+  "name": "angula_workshop",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Elia Bardashevich <ebardashevich@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
